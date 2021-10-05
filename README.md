@@ -1,12 +1,12 @@
 ### Welcome! 👋🏽
 
-Hi, I'm Parsa! I am currently a 5<sup>th</sup> year undergraduate student at the University of British Columbia, with a strong passion for <strong>Computer Science Education</strong>, Computational Thinking within K-12 Education and Human-Computer Interaction (HCI).
+Hi, I'm Parsa! I am currently a Master's student at Simon Fraser University with an interest in <strong>Computer Science Education</strong>, Computational Thinking within K-12 Education and Human-Computer Interaction (HCI).
 
 During my spare time, I love to cook, travel, hike and volunteer in the community / on campus!
 
 ### 🌍 Check out:
 
-- Website: [parsa.marajabi.com](http://parsa.marajabi.com/)
+- Website: [parsa-rajabi.github.io](https://parsa-rajabi.github.io/)
 - LinkedIn: [parsa-rajabi](https://www.linkedin.com/in/parsa-rajabi/)
 <!--
 **Parsa-Rajabi/Parsa-Rajabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
