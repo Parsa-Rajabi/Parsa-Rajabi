@@ -1,8 +1,8 @@
 ### Welcome! 👋🏽
 
-Hi, I'm Parsa! I am currently a Master's student at Simon Fraser University with an interest in <strong>Computer Science Education</strong>, Computational Thinking within K-12 Education and Human-Computer Interaction (HCI).
+Hi, I'm Parsa! I am currently an instructor and researcher at Simon Fraser University with an interest in <strong>Computer Science Education</strong>, AI-Education,  Human-Computer Interaction (HCI) and Computational Thinking. 
 
-During my spare time, I love to cook, travel, hike and volunteer in the community / on campus!
+During my spare time, I love to cook, travel, ski, hike and volunteer in the community / on campus!
 
 ### 🌍 Check out:
 
